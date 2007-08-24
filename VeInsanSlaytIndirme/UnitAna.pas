@@ -678,6 +678,7 @@ begin
  Memo2.Lines.Clear;
  Memo2.Lines.Add('');
  Memo2.Lines.Add('');
+ Memo2.Lines.Add('');
  Memo2.Lines.Add(galery.Cue.Items[k].Info);
  memo2.Lines.SaveToFile(Edit1.Text+SlaytName+'\'+ChangeFileExt(galery.Cue.Items[k].Name,'') + '.txt');
 end;
