@@ -66,7 +66,7 @@ AutoIncBuild=1
 MajorVer=2
 MinorVer=2
 Release=0
-Build=70
+Build=71
 Debug=0
 PreRelease=0
 Special=0
@@ -77,7 +77,7 @@ CodePage=1254
 [Version Info Keys]
 CompanyName=Sadettin POLAT
 FileDescription=Ntv de yayýnlanan Ve Ýnsan adlý programýn internette yayýnlanan slaytlarýný download eder.
-FileVersion=2.2.0.70
+FileVersion=2.2.0.71
 InternalName=veinsan.exe
 LegalCopyright=Resim ve yazýlarýn tüm haklarý sahibine aittir.
 LegalTrademarks=sadettinpolat@yahoo.com
