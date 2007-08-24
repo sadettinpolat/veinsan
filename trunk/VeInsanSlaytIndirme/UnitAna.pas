@@ -192,7 +192,7 @@ Edit1.Text := ini.ReadString('Ayarlar','Path','c:\VeInsan\');
 strPathSlaytView :=ini.ReadString('Ayarlar','PathSlaytView','c:\VeInsan\');
 Edit2.Text := ini.ReadString('Ayarlar','PathListe','http://www.ntvmsnbc.com/modules/slideshow/VeInsan20040419/slideshow.asp');
 KabukDeger := ini.ReadInteger('Ayarlar','KabukDeger',2);
-Application.Title :='Ve Ýnsan v.2.1';
+Application.Title :='Ve Ýnsan v.2.2';
 VISGA :=ini.ReadString('Ayarlar','VISGA','');
 
 suiProgressBar1.Parent := suiStatusBar1;
