@@ -772,6 +772,7 @@ object frmHakkinda: TfrmHakkinda
         'iz ve destek olmak isterseniz  a'#351'a'#287#305'da belirtilen banka hesap nu' +
         'maralar'#305'n'#305' kullanarak bunu ger'#231'ekle'#351'tirebilirsiniz.   '
       Transparent = True
+      Visible = False
       WordWrap = True
     end
     object Label2: TLabel
