@@ -987,7 +987,6 @@ object Form1: TForm1
     TabOrder = 1
     TabStop = False
     Visible = False
-    OnClick = Button5Click
   end
   object Edit3: TEdit
     Left = 204
