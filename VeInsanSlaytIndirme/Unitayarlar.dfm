@@ -17,7 +17,6 @@ object frmAyarlar: TfrmAyarlar
   PopupMenu = suiPopupMenu1
   Position = poScreenCenter
   Scaled = False
-  OnShow = FormShow
   PixelsPerInch = 96
   TextHeight = 13
   object Shape1: TShape
@@ -773,7 +772,6 @@ object frmAyarlar: TfrmAyarlar
     LargeChange = 2
     PageSize = 2
     Color = 13224393
-    OnChange = suiScrollBar1Change
   end
   object suiThemeManager1: TsuiThemeManager
     UIStyle = MacOS
